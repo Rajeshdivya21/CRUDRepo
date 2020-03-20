@@ -1,0 +1,10 @@
+
+    {
+ 		    "id":"1",
+        "name": "swetha",
+        "phone": "123456",
+        "email": "swetha.s@gmail.com"
+    }
+    
+    //table script should be exists in DB
+    // Make 'id' as DB's auto increment instead of passing from request JSON
